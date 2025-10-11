@@ -2,7 +2,7 @@
 
 <hr/>
 
-<a href="src/images/folhas.png">
+<a href="Book/O-cavaleiro-da-gramática.pdf">
  <img src="src/images/folhas.png">
  </a>
 
@@ -14,6 +14,6 @@
  
   </p>
 
-  <p>Você pode lê-lo: 👉<a href="src/images/folhas.png">
+  <p>Você pode lê-lo: 👉<a href="Book/O-cavaleiro-da-gramática.pdf">
  <span> aqui </span>
  </a>  </p>
