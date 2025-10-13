@@ -2,18 +2,31 @@
 
 <hr/>
 
+<div align="center">
+
+# 📘 O Cavaleiro da Gramática
+
 <a href="Book/O-cavaleiro-da-gramática.pdf">
- <img src="src/images/folhas.png">
- </a>
+  <img src="src/images/folhas.png" alt="Capa do eBook" width="250px">
+</a>
 
- <p>
-  Projeto para o curso de Fundamentos de IA generativa.
-  Utilizei Ferramentas como Gemini, ChatGpt e Canva. Também apliquei as técnicas abordadas pelo instrutor.
-  
+</div>
 
- 
-  </p>
+---
 
-  <p>Você pode lê-lo: 👉<a href="Book/O-cavaleiro-da-gramática.pdf">
- <span> aqui </span>
- </a>  </p>
+📖 **Projeto desenvolvido para o curso _Fundamentos de IA Generativa_.**
+
+Utilizei ferramentas como **Gemini**, **ChatGPT** e **Canva**, aplicando as técnicas ensinadas pelo instrutor.  
+O resultado foi este eBook criativo, que une **literatura e tecnologia**.
+
+---
+
+### 🔗 Leia o eBook
+
+👉 [**Clique aqui para abrir o PDF**](Book/O-cavaleiro-da-gramática.pdf)
+
+---
+
+<div align="center">
+Feito com 💡 criatividade, ☕ café e 🤖 IA.
+</div>
