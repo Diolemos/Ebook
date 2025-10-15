@@ -16,8 +16,8 @@
 
 📖 **Projeto desenvolvido para o curso _Fundamentos de IA Generativa_.**
 
-Utilizei ferramentas como **Gemini**, **ChatGPT**,**photopea** e **Canva**, aplicando as técnicas ensinadas pelo instrutor.  
-O resultado foi este eBook criativo, que une **literatura e tecnologia**.
+Utilizei ferramentas como **Gemini**, **ChatGPT**, **Photopea** e **Canva**, aplicando as técnicas ensinadas pelo instrutor.  
+O resultado foi este eBook que une **literatura, RPG e tecnologia**.
 
 ---
 
